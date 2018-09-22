@@ -1,2 +1,2 @@
 # BrendaLee
-Atividade-2: Requisitos de Software
+Repositório para entrega de atividades e trabalhos acadêmicos
